@@ -17,6 +17,6 @@ This script utilizes dynamic programming to align multiple protein sequences pro
 3. Run the script using the following command:
 
    ```terminal
-   python code.py
+   python code.py```
 
    Follow the prompts to provide the number of protein sequences and the sequences themselves.
